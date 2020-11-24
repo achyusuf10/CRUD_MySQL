@@ -64,17 +64,16 @@ The Android CRUD (Create, Read, Update, Delete) project uses a MySQL database, a
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Let's start buddy.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 
-- npm
+- Android Studio Version => 4.1
+-Php Version => 7.2
   
   ```sh
-  npm install npm@latest -g
+  php -v
   ```
   
 
