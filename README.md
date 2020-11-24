@@ -40,12 +40,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#more-screenshot">More Screenshot</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -54,9 +50,6 @@
 ## About The Project
 
 ![WhatsApp Image 2020-11-24 at 16 53 57](https://user-images.githubusercontent.com/65402864/100079084-d638d700-2e76-11eb-95fb-3dc83b730be3.jpeg)
-![WhatsApp Image 2020-11-24 at 16 53 57 (2)](https://user-images.githubusercontent.com/65402864/100079095-d89b3100-2e76-11eb-9e11-afae5df8c33b.jpeg)
-![WhatsApp Image 2020-11-24 at 16 53 57 (1)](https://user-images.githubusercontent.com/65402864/100079104-db962180-2e76-11eb-97d5-a37eb2077cfd.jpeg)
-![WhatsApp Image 2020-11-24 at 16 53 56](https://user-images.githubusercontent.com/65402864/100079108-dcc74e80-2e76-11eb-9b4a-d45dcda1ef55.jpeg)
 
 The Android CRUD (Create, Read, Update, Delete) project uses a MySQL database, and uses the Code Igniter 4 as aframework. I created this Android project to fulfill my course assignments at a university.
 
@@ -109,11 +102,12 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## More Screnshot
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+![WhatsApp Image 2020-11-24 at 16 53 57](https://user-images.githubusercontent.com/65402864/100079084-d638d700-2e76-11eb-95fb-3dc83b730be3.jpeg)
+![WhatsApp Image 2020-11-24 at 16 53 57 (2)](https://user-images.githubusercontent.com/65402864/100079095-d89b3100-2e76-11eb-9e11-afae5df8c33b.jpeg)
+![WhatsApp Image 2020-11-24 at 16 53 57 (1)](https://user-images.githubusercontent.com/65402864/100079104-db962180-2e76-11eb-97d5-a37eb2077cfd.jpeg)
+![WhatsApp Image 2020-11-24 at 16 53 56](https://user-images.githubusercontent.com/65402864/100079108-dcc74e80-2e76-11eb-9b4a-d45dcda1ef55.jpeg)
 
 <!-- LICENSE -->
 
