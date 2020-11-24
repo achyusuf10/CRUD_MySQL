@@ -80,27 +80,34 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-  
-3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-  
-4. Enter your API in `config.js`
-  
-  ```JS
-  const API_KEY = 'ENTER YOUR API';
-  ```
-  
+1. Clone the repo
+2. Copy crud_ci4 folder to your htdocs folder (optional)
+3. Start your apache and MySQL from XAMPP (optional)
+4. Or you can start the server with
 
-<!-- USAGE EXAMPLES -->
+```php
+php spark serve
+```
+
+5. Create database 'db_anggota' in phpmyadmin
+6. Migration table to database from RestAPI
+ 
+```php
+php spark migrate
+```
+
+7. Create Data Dummy
+
+```php
+php spark db:seed UserSeeder
+```
+
+8. Test your RestAPI on your browser
+http://localhost/crud_ci4/public/users or http://localhost:8080/users
+
+9. Open Android Studio
+
+10. Change your ip in RetroServer.java and network_security_config.xml
 
 ## More Screenshot
 
