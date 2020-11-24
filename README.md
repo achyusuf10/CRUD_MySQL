@@ -105,10 +105,10 @@ php spark db:seed UserSeeder
 http://localhost/crud_ci4/public/users or http://localhost:8080/users
 
 9. Or test with [Postman](https://www.postman.com/downloads/). Make sure request is working properly.
-- GET -> http://localhost/crud_ci4/public/users or http://localhost:8080/users
-- POST -> http://localhost/crud_ci4/public/users/create or http://localhost:8080/users/create
-- PUT -> http://localhost/crud_ci4/public/users/{id} or http://localhost:8080/users/{id}
-- DELETE -> http://localhost/crud_ci4/public/users/{id} or http://localhost:8080/users/{id}
+- GET     -> http://localhost/crud_ci4/public/users or http://localhost:8080/users
+- POST    -> http://localhost/crud_ci4/public/users/create or http://localhost:8080/users/create
+- PUT     -> http://localhost/crud_ci4/public/users/{id} or http://localhost:8080/users/{id}
+- DELETE  -> http://localhost/crud_ci4/public/users/{id} or http://localhost:8080/users/{id}
 
 10. Open Android Studio
 
