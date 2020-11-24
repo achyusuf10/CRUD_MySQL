@@ -70,7 +70,7 @@ Let's start buddy.
 
 
 - Android Studio Version => 4.1
--Php Version => 7.2
+- Php Version => 7.2
   
   ```sh
   php -v
