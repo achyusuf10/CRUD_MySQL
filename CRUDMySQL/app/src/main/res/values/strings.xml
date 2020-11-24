@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD MySQL</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
