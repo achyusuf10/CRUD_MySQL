@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/abdullah1006/CRUD_MySQL">
-    <img src="![ic_library](https://user-images.githubusercontent.com/65402864/100080500-7e02d480-2e78-11eb-9997-d774cec7854a.png)" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/65402864/100080500-7e02d480-2e78-11eb-9997-d774cec7854a.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">CRUD MySQL</h3>
