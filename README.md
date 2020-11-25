@@ -51,7 +51,7 @@
 
 ![WhatsApp Image 2020-11-24 at 16 53 57](https://user-images.githubusercontent.com/65402864/100079084-d638d700-2e76-11eb-95fb-3dc83b730be3.jpeg)
 
-The Android CRUD (Create, Read, Update, Delete) project uses a MySQL database, and uses the Code Igniter 4 as aframework. I created this Android project to fulfill my course assignments at a university.
+Android App CRUD (Create, Read, Update, Delete) use MySQL for database, and uses the Code Igniter 4 as a framework. I created this Android project to fulfill my course assignments at a university.
 
 
 ### Built With
